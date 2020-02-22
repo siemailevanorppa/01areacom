@@ -1,0 +1,4 @@
+#gang gang gang on god
+User-agent: *
+Allow: /
+
