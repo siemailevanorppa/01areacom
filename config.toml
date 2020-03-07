@@ -1,4 +1,4 @@
-baseURL = "http://arenacommons.fi"
+baseURL = "https://arenacommons.fi"
 languageCode = "fi"
 title = "Areancommons"
 theme = "ananke"
